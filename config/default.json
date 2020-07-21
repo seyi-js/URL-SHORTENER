@@ -1,0 +1,4 @@
+{
+    "mongoUri": "mongodb://localhost:process.env.27017/UrlShortener",
+    "baseUrl": "http://localhost:2000"
+}
